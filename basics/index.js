@@ -24,7 +24,6 @@ function greet(name){
 	
 }
 
-
 console.log(greet('honey'));
 
 
